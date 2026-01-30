@@ -1,84 +1,167 @@
 cv:
+
   name: Isabel Rivadero
+
   location: Argentina
+
   email: isa.work.rivadero@gmail.com
+
   phone: 
+
   website: https://github.com/IsabelRivadero
+
   social_networks:
+
     - network: LinkedIn
+
       username: isabel-rivadero
+
     - network: GitHub
+
       username: IsabelRivadero
+
   sections:
+
     profile:
-      - Fraud Prevention Data Scientist with strong analytical skills and proven experience applying machine learning and anomaly detection to real-world business challenges. With almost 3 years of expertise in Natural Language Processing (NLP), I specialize in developing text mining and classification solutions. Passionate about continuous learning, solving complex challenges, and driving data-informed decisions.
+
+      - Data Scientist/ Machine Learning Engineer with strong analytical skills and 5 years of experience applying machine learning models to real-world business challenges. With almost 3 years of expertise in Natural Language Processing (NLP), and 2 years in fraud prevention techniques. Passionate about continuous learning, solving complex challenges, and driving data-informed decisions.
+
     experience:
+
       - company: NaranjaX
+
         position: Fraud Prevention Data Scientist Sr
+
         location: 
+
         start_date: 2024
-        end_date: present
+
+        end_date: 2026
+
         highlights:
-          - I am responsible for creating and optimizing fraud detection rules using machine learning and anomaly detection models.
+
+          - I was responsible for creating and optimizing fraud detection models using machine learning and anomaly detection models.
+
           - Combine domain knowledge in risk and fraud to improve prevention strategies.
+
+          - Responsible of Fraud models, work across teams
+
       - company: Bees
+
         position: Data Scientist Sr
+
         location: 
+
         start_date: 2023
+
         end_date: 2024
+
         highlights:
-          - I was responsible for generating challenge recommendations for clients, applying relevant business rules using PySpark.
+
+          - I was responsible for generating challenge recommendations for clients, applying relevant business rules applying Big Data techniques.
+
           - This task involves careful analysis and the implementation of effective solutions to meet the specific needs of the clients.
+
       - company: Esolutions
+
         position: Data Scientist Ssr
+
         location: 
+
         start_date: 2021
+
         end_date: 2023
+
         highlights:
-          - Led key projects, including the development of a churn detection model for the banking sector.
-          - Research, development, implementation, and provision of text mining solutions for the telecommunications sector, specializing in Natural Language Processing (NLP).
+
+          - Led key projects, mentoring and responsible of machine learning models.
+
+          - Research, development, implementation, and deploy of an orchestrator of text mining solutions for the telecommunications sector, specializing in Natural Language Processing (NLP).
+
       - company: FaMAF - Universidad Nacional de Córdoba
+
         position: Data Science Mentor
+
         location: Córdoba, Argentina
+
         start_date: 2022
+
         end_date: 2022
+
         highlights:
-          - I have planned and led Data Science projects applying the concepts and skills acquired in the Certificate in Data Science, Machine Learning, and Their Applications.
+
+          - I have planned and led Data Science teams across projects applying the concepts and skills acquired during the Certification in Data Science, Machine Learning, and Their Applications.
+
     education:
-      - institution: UGR - Universidad del gran Rosario
+
+      - institution: UGR - Universidad del Gran Rosario
+
         area: Data Science
-        degree: Bachelor's Degree
+
+        degree: B.S.
+
         start_date: 2025
+
         end_date: present
+
         highlights:
+
           - Currently completing my degree to complement practical expertise and formalize my professional background in the industry.
+
       - institution: FaMAF - Universidad Nacional de Córdoba
+
         area: Computer Science
-        degree: Bachelor's Degree
+
+        degree: B.S.
+
         start_date: 2019
+
         end_date: present
+
         highlights:
+
           - Gained experience in the application of algorithms, logic, and low-level programming, as well as in software engineering and text mining.
+
     courses_and_certifications:
+
       - bullet: Certificado profesional de IBM Generative AI Engineering
+
       - bullet: Certificado profesional de Ingeniería de IA
+
       - bullet: Programa especializado Generative AI Engineering with LLMs
+
       - bullet: Programa especializado MLOps | Operaciones de aprendizaje automático
+
       - bullet: IBM Machine Learning - IBM/Coursera
+
       - bullet: AI Product Management - Duke/Coursera
-      - bullet: Python Essentials for MLOps - Duke University/Coursera
+
       - bullet: Data Engineering Foundations - IBM/Coursera
+
       - bullet: Deployment of Machine Learning Models - Udemy
+
       - bullet: LLMOps - deeplearning.ai
+
       - bullet: Large Language Models with Semantic Search - deeplearning.ai
+
       - bullet: DevOps, Cloud, and Agile Foundations Specialization - IBM/Coursera
+
       - bullet: Big Data y Spark Ingeniería de Datos con Python y Pyspark - Udemy
+
       - bullet: Data Science - (IBM)
+
     diplomas:
+
       - bullet: Diploma in Data Science, Machine Learning, and Their Applications. FAMAF- UNC.
+
       - bullet: Diploma in Data Science, Artificial Intelligence and its applications in economy and finances. FCE-UNC
+
     skills:
+
       - label: Languages
+
         details: Spanish (Native), English (Full professional proficiency)
+
       - label: Technical
-        details: Python, PySpark, Machine Learning, NLP, Anomaly Detection, MLOps, Generative AI.
+
+        details: Python, PySpark, Machine Learning, NLP, Anomaly Detection, Noise Reduction, speech to text, OpenAI API, MLOps, Generative AI.
