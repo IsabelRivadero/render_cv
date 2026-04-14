@@ -24,9 +24,21 @@ cv:
 
     profile:
 
-      - Data Scientist/ Machine Learning Engineer with strong analytical skills and 5 years of experience applying machine learning models to real-world business challenges. With almost 3 years of expertise in Natural Language Processing (NLP), and 2 years in fraud prevention techniques. Passionate about continuous learning, solving complex challenges, and driving data-informed decisions.
+      - Data Scientist/ Machine Learning Engineer Sr with strong analytical skills and 5 years of experience applying machine learning models to real-world business challenges. With almost 3 years of expertise in Natural Language Processing (NLP), and 2 years in fraud prevention techniques, fincrime, risk analytics and insurance global company. Passionate about continuous learning, solving complex challenges, and driving data-informed decisions.
 
     experience:
+
+      - company: Metlife
+
+        position: Data Scientist Sr
+
+        start_date: 2026
+
+        end_date: present
+
+        highlights:
+
+          - I am responsible for creating and optimizing fraud detection/ risk models for medical insurance company.
 
       - company: NaranjaX
 
