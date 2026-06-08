@@ -24,7 +24,7 @@ cv:
 
     profile:
 
-      - Data Scientist/ Machine Learning Engineer Sr with strong analytical skills and 5 years of experience applying machine learning models to real-world business challenges. With almost 3 years of expertise in Natural Language Processing (NLP), and 2 years in fraud prevention techniques, fincrime, risk analytics and insurance global company. Passionate about continuous learning, solving complex challenges, and driving data-informed decisions.
+      - Data Scientist/ Machine Learning Engineer Sr with strong analytical skills and more than 5 years of experience applying machine learning models to real-world business challenges. With almost 3 years of expertise in Natural Language Processing (NLP), and about 2 years in fraud prevention techniques, fincrime, risk analytics and insurance in a global company. Interested in NLP, Risk and AI Cibersecurity. Passionate about continuous learning, solving complex challenges, and driving data-informed decisions.
 
     experience:
 
@@ -52,11 +52,11 @@ cv:
 
         highlights:
 
-          - I was responsible for creating and optimizing fraud detection models using machine learning and anomaly detection models.
+          - I was responsible of pocs development for fraud prevention using machine learning and anomaly detection models like isolation forest, autoencoders, and graph techniques,
 
           - Combine domain knowledge in risk and fraud to improve prevention strategies.
 
-          - Responsible of Fraud models, work across teams
+          - Responsible of Fraud models, work across teams, aprove Machine Learning models.
 
       - company: Bees
 
@@ -86,9 +86,10 @@ cv:
 
         highlights:
 
-          - Led key projects, mentoring and responsible of machine learning models.
+          - Led key projects, mentoring and taking ownership of machine learning models.
 
           - Research, development, implementation, and deploy of an orchestrator of text mining solutions for the telecommunications sector, specializing in Natural Language Processing (NLP).
+          - Develop audio cleaning, audio transcription, patterns recognition, LDA clustering, topic detection, sentiment analysis, fine tunning, and deploy of an orchestrator of language models.
 
       - company: FaMAF - Universidad Nacional de Córdoba
 
@@ -135,6 +136,9 @@ cv:
           - Gained experience in the application of algorithms, logic, and low-level programming, as well as in software engineering and text mining.
 
     courses_and_certifications:
+      - bullet: Formación de Auditores Internos de Sistemas de Gestión de Inteligencia Artificial (ISO/IEC 42001:2023)
+
+      - bullet: Certificado profesional de IBM RAG and Agentic AI
 
       - bullet: Certificado profesional de IBM Generative AI Engineering
 
@@ -156,8 +160,6 @@ cv:
 
       - bullet: Large Language Models with Semantic Search - deeplearning.ai
 
-      - bullet: DevOps, Cloud, and Agile Foundations Specialization - IBM/Coursera
-
       - bullet: Big Data y Spark Ingeniería de Datos con Python y Pyspark - Udemy
 
       - bullet: Data Science - (IBM)
@@ -168,6 +170,10 @@ cv:
 
       - bullet: Diploma in Data Science, Artificial Intelligence and its applications in economy and finances. FCE-UNC
 
+      - bullet: Diplomatura en Prevencion del Fraude Financiero y Digital
+
+      - bullet: Diplomatura en Gestion de Riesgos No financieros
+
     skills:
 
       - label: Languages
@@ -176,4 +182,4 @@ cv:
 
       - label: Technical
 
-        details: Python, PySpark, Machine Learning, NLP, Anomaly Detection, Noise Reduction, speech to text, OpenAI API, MLOps, Generative AI.
+        details: Python, PySpark, Machine Learning, NLP, Anomaly Detection, Noise Reduction, speech to text, OpenAI API, MLOps, Generative AI, Fraud, Risk, AI Cybersecurity
