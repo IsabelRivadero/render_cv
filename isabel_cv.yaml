@@ -1,185 +1,176 @@
 cv:
-
   name: Isabel Rivadero
-
   location: Argentina
-
   email: isa.work.rivadero@gmail.com
-
-  phone: 
-
   website: https://github.com/IsabelRivadero
-
   social_networks:
-
     - network: LinkedIn
-
       username: isabel-rivadero
-
     - network: GitHub
-
       username: IsabelRivadero
 
   sections:
-
     profile:
-
-      - Data Scientist/ Machine Learning Engineer Sr with strong analytical skills and more than 5 years of experience applying machine learning models to real-world business challenges. With almost 3 years of expertise in Natural Language Processing (NLP), and about 2 years in fraud prevention techniques, fincrime, risk analytics and insurance in a global company. Interested in NLP, Risk and AI Cibersecurity. Passionate about continuous learning, solving complex challenges, and driving data-informed decisions.
+      - >-
+        Senior Data Scientist and Machine Learning Engineer with 6 years of experience
+        delivering scalable ML and AI solutions to complex business problems. Deep domain
+        specialization in Fraud Prevention, Financial Crime, Risk Analytics, Payment Probability and Medical Fraud(2+ years),
+        alongside extensive expertise in Natural Language Processing (NLP) and Agentic
+        Generative AI. Proven track record building enterprise-grade anomaly detection
+        models, recommender systems, graph analytics, and custom MLOps copilot frameworks.
+        Passionate about AI Risk Analytics, continuous learning, and driving data-informed
+        strategic decisions.
 
     experience:
-
-      - company: Metlife
-
-        position: Data Scientist Sr
-
+      - company: MetLife
+        position: Data Scientist Sr / ML Engineer Sr
+        location: ""
         start_date: 2026
-
         end_date: present
-
         highlights:
+          - >-
+            Modernized and productionized legacy medical insurance claims ML systems across
+            BigQuery and Azure: reverse-engineered existing pipelines, refactored codebases,
+            upgraded dependencies, and recovered missing model artifacts to restore full
+            model lifecycle and retraining workflows.
+          - >-
+            Engineered multi-algorithm fraud detection models (Autoencoders, Isolation Forest,
+            LOF, XGBoost) and a multiclass anomaly-classification approach that distinguishes
+            complementary anomaly profiles to support automated claims risk assessment.
+          - >-
+            Applied bipartite graph analytics to characterize entity relationships, uncover
+            suspicious behavioral patterns, and identify emerging fraud networks across
+            medical insurance claims.
+          - >-
+            Architected a custom MLEngineer Copilot using Agentic AI (orchestrator and
+            domain-specific agents with function/tool calling) to automatically refactor
+            research notebooks into production-ready modular code.
 
-          - I am responsible for creating and optimizing fraud detection/ risk models for medical insurance company.
-
-      - company: NaranjaX
-
+      - company: Naranja X
         position: Fraud Prevention Data Scientist Sr
-
-        location: 
-
+        location: ""
         start_date: 2024
-
         end_date: 2026
-
         highlights:
+          - >-
+            Drove R&D, MVP development, and model auditing for credit card and digital account
+            fraud, acting as the primary technical bridge between Fraud Operations and
+            Advanced Analytics.
+          - >-
+            Built supervised (XGBoost) and unsupervised (Isolation Forest, Autoencoders)
+            models with model stacking (clustering + segment-specific classifiers),
+            advocating for imbalanced-classification metrics (PR-AUC over KS) and population
+            stability monitoring (PSI).
+          - >-
+            Optimized decision-tree cutoff rules and risk thresholds for vendor tools
+            (BioCatch, Visa, Mastercard) based on financial loss/gain trade-offs, reducing
+            false positives and operational friction without sacrificing fraud capture.
 
-          - I was responsible of pocs development for fraud prevention using machine learning and anomaly detection models like isolation forest, autoencoders, and graph techniques,
-
-          - Combine domain knowledge in risk and fraud to improve prevention strategies.
-
-          - Responsible of Fraud models, work across teams, aprove Machine Learning models.
-
-      - company: Bees
-
+      - company: AB InBev
         position: Data Scientist Sr
-
-        location: 
-
+        location: ""
         start_date: 2023
-
         end_date: 2024
-
         highlights:
-
-          - I was responsible for generating challenge recommendations for clients, applying relevant business rules applying Big Data techniques.
-
-          - This task involves careful analysis and the implementation of effective solutions to meet the specific needs of the clients.
+          - >-
+            Designed NLP-based recommendation engines using Cosine Similarity for global B2B
+            e-commerce platform challenges, achieving top performance in the technical
+            selection challenge.
+          - >-
+            Engineered large-scale PySpark features and production pipelines on Microsoft
+            Azure to process massive transactional datasets feeding central ML models across
+            regional channels.
+          - >-
+            Ensured enterprise data governance, high data quality, and scalability across
+            global analytics and machine learning deployment workflows.
 
       - company: Esolutions
-
         position: Data Scientist Ssr
-
-        location: 
-
+        location: ""
         start_date: 2021
-
         end_date: 2023
-
         highlights:
-
-          - Led key projects, mentoring and taking ownership of machine learning models.
-
-          - Research, development, implementation, and deploy of an orchestrator of text mining solutions for the telecommunications sector, specializing in Natural Language Processing (NLP).
-          - Develop audio cleaning, audio transcription, patterns recognition, LDA clustering, topic detection, sentiment analysis, fine tunning, and deploy of an orchestrator of language models.
+          - >-
+            Served as sole Data Scientist driving end-to-end R&D for a major regional bank
+            (Bancor): designed, trained, validated, and deployed an XGBoost churn and digital
+            channel migration API to predict customer behavior and drive web-to-mobile
+            adoption.
+          - >-
+            Architected an internal Speech Analytics orchestrator processing call center
+            audio via custom text preprocessing, denoising pipelines, Google Speech-to-Text,
+            and OpenAI Whisper API.
+          - >-
+            Implemented advanced NLP solutions including Spanish transformer fine-tuning
+            (BETO), topic modeling, sentiment analysis, and semantic similarity engines
+            exposed via FastAPI, Docker, MongoDB, and AWS.
 
       - company: FaMAF - Universidad Nacional de Córdoba
-
-        position: Data Science Mentor
-
+        position: Paid Technical Lead & Mentor
         location: Córdoba, Argentina
-
         start_date: 2022
-
         end_date: 2022
-
         highlights:
-
-          - I have planned and led Data Science teams across projects applying the concepts and skills acquired during the Certification in Data Science, Machine Learning, and Their Applications.
+          - >-
+            Led and mentored cross-functional student teams through the year-long
+            Post-Graduate Diploma in Data Science, guiding architectural choices,
+            methodological decisions, and end-to-end pipeline execution for a unified
+            capstone project.
+          - >-
+            Designed a specialized Time Series & Applied ML track on gender-based violence
+            and harassment data during COVID-19, guiding statistical hypothesis testing
+            (seasonality, structural breaks, anomaly detection) from EDA to final thesis
+            defense.
+          - >-
+            Structured practical coursework across EDA, Supervised ML, and Unsupervised
+            Learning on the same unified dataset, culminating in a production-ready capstone
+            and final thesis defense.
 
     education:
+      - institution: FaMAF - Universidad Nacional de Córdoba
+        area: Double Bachelor's Degree in Computer Science & Applied Mathematics (On Hold)
+        degree: B.S.
+        start_date: 2021
+        end_date: present
+        highlights:
+          - >-
+            Rigorous academic curriculum focused on advanced algorithms, software
+            engineering, low-level programming, numerical analysis, probability, and
+            mathematical modeling applied to NLP research.
 
       - institution: UGR - Universidad del Gran Rosario
-
         area: Data Science
-
         degree: B.S.
-
         start_date: 2025
-
         end_date: present
-
         highlights:
-
-          - Currently completing my degree to complement practical expertise and formalize my professional background in the industry.
-
-      - institution: FaMAF - Universidad Nacional de Córdoba
-
-        area: Computer Science
-
-        degree: B.S.
-
-        start_date: 2019
-
-        end_date: present
-
-        highlights:
-
-          - Gained experience in the application of algorithms, logic, and low-level programming, as well as in software engineering and text mining.
+          - >-
+            Complementing practical industry expertise with formal degree specialization in
+            end-to-end data engineering, machine learning, and AI governance.
 
     courses_and_certifications:
       - bullet: Formación de Auditores Internos de Sistemas de Gestión de Inteligencia Artificial (ISO/IEC 42001:2023)
-
-      - bullet: Certificado profesional de IBM RAG and Agentic AI
-
-      - bullet: Certificado profesional de IBM Generative AI Engineering
-
-      - bullet: Certificado profesional de Ingeniería de IA
-
-      - bullet: Programa especializado Generative AI Engineering with LLMs
-
-      - bullet: Programa especializado MLOps | Operaciones de aprendizaje automático
-
-      - bullet: IBM Machine Learning - IBM/Coursera
-
-      - bullet: AI Product Management - Duke/Coursera
-
-      - bullet: Data Engineering Foundations - IBM/Coursera
-
-      - bullet: Deployment of Machine Learning Models - Udemy
-
-      - bullet: LLMOps - deeplearning.ai
-
-      - bullet: Large Language Models with Semantic Search - deeplearning.ai
-
-      - bullet: Big Data y Spark Ingeniería de Datos con Python y Pyspark - Udemy
-
-      - bullet: Data Science - (IBM)
+      - bullet: Certificado Profesional de IBM RAG and Agentic AI | IBM Generative AI Engineering | Ingeniería de IA
+      - bullet: Programa Especializado Generative AI Engineering with LLMs | MLOps Specialization
+      - bullet: LLMOps & Large Language Models with Semantic Search — deeplearning.ai
+      - bullet: IBM Machine Learning | AI Product Management (Duke Univ.) | Data Engineering Foundations (IBM)
+      - bullet: Deployment of Machine Learning Models (Udemy) | Big Data y Spark Ingeniería de Datos con Python y PySpark
 
     diplomas:
-
-      - bullet: Diploma in Data Science, Machine Learning, and Their Applications. FAMAF- UNC.
-
-      - bullet: Diploma in Data Science, Artificial Intelligence and its applications in economy and finances. FCE-UNC
-
-      - bullet: Diplomatura en Prevencion del Fraude Financiero y Digital
-
-      - bullet: Diplomatura en Gestion de Riesgos No financieros
+      - bullet: Diploma in Data Science, Machine Learning, and Their Applications (FaMAF - UNC)
+      - bullet: Diploma in Data Science, Artificial Intelligence and Applications in Economy and Finances (FCE - UNC)
+      - bullet: Diplomatura en Prevención del Fraude Financiero y Digital (FCE - UNC)
+      - bullet: Diplomatura en Gestión de Riesgos No Financieros (FCE - UNC)
 
     skills:
-
       - label: Languages
-
         details: Spanish (Native), English (Full professional proficiency)
-
-      - label: Technical
-
-        details: Python, PySpark, Machine Learning, NLP, Anomaly Detection, Noise Reduction, speech to text, OpenAI API, MLOps, Generative AI, Fraud, Risk, AI Cybersecurity
+      - label: Technical & AI
+        details: >-
+          Python, PySpark, Machine Learning, NLP, AI Agents, Agentic Systems,
+          Tool/Function Calling, LLMOps, MLOps, Speech-to-Text, OpenAI API, Whisper, BETO,
+          RAG, XGBoost, Docker, FastAPI
+      - label: Domain & Risk
+        details: >-
+          Financial Crime, Fraud Prevention (2+ yrs), Risk Analytics, Anomaly Detection
+          (Autoencoders, Isolation Forest, LOF, Graph ML), Insurance Analytics,
+          AI Cybersecurity, AI Governance (ISO/IEC 42001)
